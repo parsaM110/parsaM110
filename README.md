@@ -1,5 +1,12 @@
-### Hi there <image src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="27px">
-### I'm Parsa (پارسا)
+![Blank Particle's Banner](https://media.licdn.com/dms/image/v2/D4E16AQHvp7d2wYRUtA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712761524948?e=1732752000&v=beta&t=tCWAqq3IhiW0mtZsSxFGvxwydZy5CwYWsY97ee57eME)
+<h1 align="center">Hello, <image src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" height="27px"> Welcome !</h1>
+
+
+## 🤩 Know about me
+- ✨ I'm Parsa (پارسا)
+- 🎓 I am a 23 yo
+- ❤️ I love to tweak around new technology and explore them
+
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://parsam110.github.io/parsam110/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@parsam110)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-momeni-6256151b6/)
