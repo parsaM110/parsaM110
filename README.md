@@ -11,6 +11,11 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@parsam110)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parsa-momeni-6256151b6/)
 
+## Connect with me
+<p align="left">
+<a href="https://www.hackerrank.com/pmomeni80" target="_blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="hackerrank" height="48" width="48" title="HackerRank" /></a>&nbsp;
+    </p>
+
 ## 📕 Education
 [Tehran Uni](https://ut.ac.ir/en) ---> **MS**
 
