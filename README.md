@@ -58,6 +58,6 @@
 
 ## 🔥 **Coding Streaks:**
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parsam110&theme=radical)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=parsam110)](https://git.io/streak-stats)
 
 <br/>
