@@ -32,7 +32,7 @@
 
 ## 🚀 My Skills
 
-[![My Skills are HTML, CSS, JS, TS, Node JS, Svelte, React, Next JS, Tailwind CSS, My SQL, Mongo DB, VS Code, Git, Rust and Linux](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwindcss,mysql,mongodb,vscode,git,cpp,qt,python,androidstudio,flutter,java,kotlin,spring,linux,wordpress,latex)](https://skillicons.dev)
+[![My Skills are HTML, CSS, JS, TS, Node JS, Svelte, React, Next JS, Tailwind CSS, My SQL, Mongo DB, VS Code, Git, Rust and Linux](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwindcss,mysql,mongodb,vscode,git,cpp,qt,python,androidstudio,flutter,java,kotlin,spring,linux,wordpress,latex,go,arch,dart,django,docker)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parsam110&layout=compact&langs_count=10&card_width=320" />
